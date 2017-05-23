@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\xml\\search_configuration.xml",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\xml\\search_configuration.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_setting.xml",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\xml\\pref_setting.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_open_profile.xml",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_open_profile.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_user_image_24dp.xml",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_image_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_error_black_24dp.xml",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_error_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_add_70dp.xml",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_add_70dp.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\arrow_left.xml",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\arrow_left.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_record_voice_over_black_36dp.xml",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_record_voice_over_black_36dp.xml"
+    }
+]

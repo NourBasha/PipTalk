@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\main_exit.xml",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\transition-v21\\main_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\main_reenter.xml",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\transition-v21\\main_reenter.xml"
+    }
+]

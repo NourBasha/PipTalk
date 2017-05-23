@@ -1,0 +1,165 @@
+<FrameLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    >
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:src="@drawable/chat_icon"
+           />
+    </FrameLayout>
+
+    <com.pip.talk.pip.pc.piptalk.MyTextView
+        android:id="@+id/loginTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="80dp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:text="Piptalk"
+        android:textStyle="bold"/>
+
+<android.support.design.widget.TextInputLayout
+    android:id="@+id/username"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColorHint="@android:color/white"
+    android:textColor="@android:color/white"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp">
+<com.pip.talk.pip.pc.piptalk.MyEditText
+    android:id="@+id/login_username_txt"
+    android:textSize="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/user_name"
+    android:textColorHint="@color/lightGray"
+    android:textColor="@android:color/white"
+    android:maxLength="15"
+    android:background="@drawable/rect2"
+    android:padding="16dp"
+    android:gravity="left"
+    android:drawableLeft="@drawable/user"
+    android:drawablePadding="12dp"
+    android:alpha="0.9"
+    android:elevation="3dp"
+ />
+</android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/lightGray"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <com.pip.talk.pip.pc.piptalk.MyEditText
+            android:textColorHighlight="@android:color/white"
+            android:elevation="3dp"
+            android:id="@+id/login_password_txt"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password"
+            android:textColorHint="@color/lightGray"
+            android:textColor="@android:color/white"
+            android:maxLength="15"
+            android:background="@drawable/rect2"
+            android:inputType="textPassword"
+            android:padding="16dp"
+            android:gravity="left"
+            android:drawableLeft="@drawable/pass"
+            android:drawablePadding="12dp"
+            android:alpha="0.9"
+            />
+    </android.support.design.widget.TextInputLayout>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:text="Forget Password?"
+        />
+    <Button
+        android:elevation="3dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/login_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rect1"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:textAllCaps="false"
+        android:text="@string/login"
+        />
+
+
+
+
+</LinearLayout>
+</ScrollView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|bottom"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/lightGray"
+            android:textSize="15dp"
+            android:text="Create new account?"
+            />
+        <Button
+            android:layout_marginTop="5dp"
+            android:id="@+id/siginup_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textAllCaps="false"
+            android:text="Signup"
+            android:background="@android:color/transparent"
+            />
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background"
+        android:alpha="0"
+        android:scaleType="fitXY"/>
+</FrameLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_error_black_24dp.png",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_add_70dp.png",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_add_70dp.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_edit_white_24dp.png",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_warning_black_24dp.png",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\drawable-xhdpi\\ic_warning_black_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_left.png",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\arrow_left.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_open_profile.png",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_open_profile.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_record_voice_over_black_36dp.png",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_record_voice_over_black_36dp.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_user_image_24dp.png",
+        "source": "E:\\android\\PipTalk\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user_image_24dp.png"
+    }
+]

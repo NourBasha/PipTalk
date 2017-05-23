@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\PipTalk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_search_white_48dp.png",
+        "source": "E:\\android\\PipTalk\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search_white_48dp.png"
+    }
+]
