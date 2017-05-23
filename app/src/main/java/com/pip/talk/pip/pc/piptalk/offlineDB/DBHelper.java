@@ -8,6 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
  * Created by pc on 3/17/2017.
  */
 
+
  class DBHelper extends SQLiteOpenHelper {
 
    private static final String DATABASE_NAME = "piptalkdb";

@@ -718,10 +718,7 @@ public class ChatFragment extends Fragment {
                 return false;
             }
         });
-
     }
-
-
 
     //
     //

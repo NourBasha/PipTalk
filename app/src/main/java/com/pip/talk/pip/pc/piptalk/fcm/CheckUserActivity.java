@@ -27,7 +27,6 @@ public class CheckUserActivity {
 
 
     public CheckUserActivity(){
-
     }
 
 

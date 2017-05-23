@@ -60,6 +60,7 @@ public class ChatActivity extends AppCompatActivity{
         globalContext = this;
         Intent intent = getIntent();
 
+        Log.e("TAG","con :" + globalContext);
 
         if(getCallingActivity()!=null){
 
@@ -167,7 +168,6 @@ public class ChatActivity extends AppCompatActivity{
 
         }
         onNewIntent(getIntent());
-
     }
 
 
